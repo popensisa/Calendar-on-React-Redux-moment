@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Calendar-on-React-Redux-moment/static/css/main.24a86fa7.css",
+    "main.js": "/Calendar-on-React-Redux-moment/static/js/main.83e7b73b.js",
+    "index.html": "/Calendar-on-React-Redux-moment/index.html",
+    "main.24a86fa7.css.map": "/Calendar-on-React-Redux-moment/static/css/main.24a86fa7.css.map",
+    "main.83e7b73b.js.map": "/Calendar-on-React-Redux-moment/static/js/main.83e7b73b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a86fa7.css",
+    "static/js/main.83e7b73b.js"
+  ]
+}
